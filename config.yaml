@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: workers-cloudflare-com # unique identifier
-    name: workers.cloudflare.com
+    name: iAmCoder.in
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://iamcoder.in/' # URL to fetch
     method: GET # default=GET
@@ -25,7 +25,7 @@ monitors:
     linkable: false # allows the title to be a link, default=true
 
   - id: www-cloudflare-com
-    name: www.cloudflare.com
+    name: ND.Org
     description: 'Built for anything connected to the Internet.'
     url: 'https://www.narendradwivedi.org'
     method: GET
